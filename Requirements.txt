@@ -1,0 +1,11 @@
+Requirements:
+
+To run this program you need the following python libraries:
+
+numpy
+pygame
+neat-python
+graphviz
+matplotlib
+
+You may have to install graphviz throught their official website: https://graphviz.org/download/
